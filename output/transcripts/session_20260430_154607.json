@@ -1,0 +1,19 @@
+{
+  "session_start": "2026-04-30T10:46:07.533064",
+  "session_end": "2026-04-30T10:48:15.651446",
+  "utterance_count": 2,
+  "utterances": [
+    {
+      "timestamp": "2026-04-30T10:46:14.012354",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 0.96
+    },
+    {
+      "timestamp": "2026-04-30T10:46:14.611074",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.11
+    }
+  ]
+}

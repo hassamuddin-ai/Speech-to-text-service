@@ -1,0 +1,73 @@
+{
+  "session_start": "2026-06-03T06:42:51.071435",
+  "session_end": null,
+  "utterance_count": 11,
+  "utterances": [
+    {
+      "timestamp": "2026-06-03T06:42:59.243478",
+      "text": "is ki application jm krwaiin",
+      "language": "Urdu",
+      "duration_s": 4.35
+    },
+    {
+      "timestamp": "2026-06-03T06:43:17.744142",
+      "text": "mera nam bdallh hai",
+      "language": "Urdu",
+      "duration_s": 5.82
+    },
+    {
+      "timestamp": "2026-06-03T06:43:22.175556",
+      "text": "airan aam rbtallh",
+      "language": "Urdu",
+      "duration_s": 2.58
+    },
+    {
+      "timestamp": "2026-06-03T06:43:38.868368",
+      "text": "mera nam bdallh hai",
+      "language": "Urdu",
+      "duration_s": 3.12
+    },
+    {
+      "timestamp": "2026-06-03T06:45:18.594375",
+      "text": "khda hafz",
+      "language": "Urdu",
+      "duration_s": 2.28
+    },
+    {
+      "timestamp": "2026-06-03T06:45:44.243228",
+      "text": "aap mujh se bat na krin.",
+      "language": "Urdu",
+      "duration_s": 2.37
+    },
+    {
+      "timestamp": "2026-06-03T06:45:56.881546",
+      "text": "aap report jm krwaiin",
+      "language": "Urdu",
+      "duration_s": 2.76
+    },
+    {
+      "timestamp": "2026-06-03T06:46:35.472733",
+      "text": "Praman Ki Asha is a campaign jointly started by two leading media houses, the Young Group of Pakistan and the Times of India in India.",
+      "language": "English",
+      "duration_s": 11.61
+    },
+    {
+      "timestamp": "2026-06-03T06:47:02.402754",
+      "text": "The campaign aims for mutual peace and development of diplomatic and cultural relations between the two South Asian nations. It was established on 1st January 2010.",
+      "language": "English",
+      "duration_s": 13.98
+    },
+    {
+      "timestamp": "2026-06-03T06:47:19.040354",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.6
+    },
+    {
+      "timestamp": "2026-06-03T06:47:24.102898",
+      "text": "I'm sorry.",
+      "language": "English",
+      "duration_s": 1.41
+    }
+  ]
+}

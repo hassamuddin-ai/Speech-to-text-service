@@ -1,0 +1,19 @@
+{
+  "session_start": "2026-05-05T11:07:00.481537",
+  "session_end": null,
+  "utterance_count": 2,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T11:08:54.806266",
+      "text": "What is your name?",
+      "language": null,
+      "duration_s": 2.64
+    },
+    {
+      "timestamp": "2026-05-05T11:09:15.018552",
+      "text": "x squared plus x plus 13.",
+      "language": null,
+      "duration_s": 4.26
+    }
+  ]
+}

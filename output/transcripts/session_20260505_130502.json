@@ -1,0 +1,19 @@
+{
+  "session_start": "2026-05-05T08:05:02.599920",
+  "session_end": null,
+  "utterance_count": 2,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T08:05:12.087424",
+      "text": "میرا نام عبداللہ ہے",
+      "language": null,
+      "duration_s": 2.7
+    },
+    {
+      "timestamp": "2026-05-05T08:07:25.548235",
+      "text": "تم اس سمری بتاؤ کیا کیا کیا کیا کیا ہوئی ہے",
+      "language": null,
+      "duration_s": 2.94
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "session_start": "2026-05-05T11:30:45.322751",
+  "session_end": null,
+  "utterance_count": 8,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T11:31:17.466344",
+      "text": "ایکس سکوئر پلس ایکس پلس تھرٹین",
+      "language": null,
+      "duration_s": 4.02
+    },
+    {
+      "timestamp": "2026-05-05T11:32:45.174955",
+      "text": "Hello, my name is Aiman.",
+      "language": null,
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-05-05T11:32:47.791105",
+      "text": "Tá, eu acho que não vai ser...",
+      "language": null,
+      "duration_s": 1.86
+    },
+    {
+      "timestamp": "2026-05-05T11:34:01.611397",
+      "text": "अजय को अजय को कि तब दुला यहां पर आपके ऐसे हो रहे हैं वैसे भी ऐसी तंक कराओ तो",
+      "language": null,
+      "duration_s": 10.71
+    },
+    {
+      "timestamp": "2026-05-05T11:34:42.902113",
+      "text": "नहीं तो आपके पास भी इतना ही रुक रहे, स्लो है कि रुक भी रहे.",
+      "language": null,
+      "duration_s": 4.35
+    },
+    {
+      "timestamp": "2026-05-05T11:36:44.068632",
+      "text": "a ver a coisa e tal, que a gente não...",
+      "language": null,
+      "duration_s": 2.16
+    },
+    {
+      "timestamp": "2026-05-05T11:36:48.933409",
+      "text": "is looking at it on the other side of the",
+      "language": null,
+      "duration_s": 2.22
+    },
+    {
+      "timestamp": "2026-05-05T11:36:52.895351",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.38
+    }
+  ]
+}

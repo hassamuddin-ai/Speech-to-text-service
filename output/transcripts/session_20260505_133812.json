@@ -1,0 +1,127 @@
+{
+  "session_start": "2026-05-05T08:38:12.918093",
+  "session_end": null,
+  "utterance_count": 20,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T08:38:19.925899",
+      "text": "x plus 1.",
+      "language": null,
+      "duration_s": 2.13
+    },
+    {
+      "timestamp": "2026-05-05T08:38:26.210230",
+      "text": "is equal to x plus 1",
+      "language": null,
+      "duration_s": 3.09
+    },
+    {
+      "timestamp": "2026-05-05T08:38:36.615137",
+      "text": "is equal to mx plus 1.",
+      "language": null,
+      "duration_s": 3.75
+    },
+    {
+      "timestamp": "2026-05-05T08:38:45.992777",
+      "text": "I is equal to x",
+      "language": null,
+      "duration_s": 2.7
+    },
+    {
+      "timestamp": "2026-05-05T08:38:47.030767",
+      "text": "one.",
+      "language": null,
+      "duration_s": 1.77
+    },
+    {
+      "timestamp": "2026-05-05T08:38:56.927798",
+      "text": "اس نظم کی تشریح لکھیں",
+      "language": null,
+      "duration_s": 2.79
+    },
+    {
+      "timestamp": "2026-05-05T08:39:02.731333",
+      "text": "اترجمہ کریں",
+      "language": null,
+      "duration_s": 2.19
+    },
+    {
+      "timestamp": "2026-05-05T08:39:14.375525",
+      "text": "ترجمہ کریں",
+      "language": null,
+      "duration_s": 2.31
+    },
+    {
+      "timestamp": "2026-05-05T08:39:25.843173",
+      "text": "میرا نام عبداللہ ہے",
+      "language": null,
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-05-05T08:40:24.055383",
+      "text": "on you.",
+      "language": null,
+      "duration_s": 1.59
+    },
+    {
+      "timestamp": "2026-05-05T08:40:24.574742",
+      "text": "My name is Abdullah.",
+      "language": null,
+      "duration_s": 2.22
+    },
+    {
+      "timestamp": "2026-05-05T08:40:38.727415",
+      "text": "نظم کا ترجمہ کریں",
+      "language": null,
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-05-05T08:40:52.744762",
+      "text": "x is equal to 2 plus 1",
+      "language": null,
+      "duration_s": 8.85
+    },
+    {
+      "timestamp": "2026-05-05T08:41:31.038773",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.41
+    },
+    {
+      "timestamp": "2026-05-05T08:41:51.263909",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.56
+    },
+    {
+      "timestamp": "2026-05-05T08:42:01.821457",
+      "text": "Obrigada.",
+      "language": null,
+      "duration_s": 6.12
+    },
+    {
+      "timestamp": "2026-05-05T08:42:05.914719",
+      "text": "It's going to be okay.",
+      "language": null,
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-05-05T08:42:08.168844",
+      "text": "بلا بھی آمدہ",
+      "language": null,
+      "duration_s": 1.62
+    },
+    {
+      "timestamp": "2026-05-05T08:43:55.200558",
+      "text": "besoin d'un bise.",
+      "language": null,
+      "duration_s": 1.95
+    },
+    {
+      "timestamp": "2026-05-05T08:44:00.440641",
+      "text": "intervenir no...",
+      "language": null,
+      "duration_s": 1.92
+    }
+  ]
+}

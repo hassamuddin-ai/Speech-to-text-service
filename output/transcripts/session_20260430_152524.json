@@ -1,0 +1,61 @@
+{
+  "session_start": "2026-04-30T10:25:24.724260",
+  "session_end": "2026-04-30T10:28:17.408812",
+  "utterance_count": 9,
+  "utterances": [
+    {
+      "timestamp": "2026-04-30T10:25:30.730526",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 3.63
+    },
+    {
+      "timestamp": "2026-04-30T10:25:32.624047",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.29
+    },
+    {
+      "timestamp": "2026-04-30T10:25:42.850501",
+      "text": "Mm-hmm.",
+      "language": null,
+      "duration_s": 1.26
+    },
+    {
+      "timestamp": "2026-04-30T10:25:53.572346",
+      "text": "I don't know.",
+      "language": null,
+      "duration_s": 1.56
+    },
+    {
+      "timestamp": "2026-04-30T10:25:57.765716",
+      "text": "Mm-hmm.",
+      "language": null,
+      "duration_s": 1.38
+    },
+    {
+      "timestamp": "2026-04-30T10:26:29.182168",
+      "text": "Obrigado.",
+      "language": null,
+      "duration_s": 1.2
+    },
+    {
+      "timestamp": "2026-04-30T10:26:33.710103",
+      "text": "Tchau.",
+      "language": null,
+      "duration_s": 1.23
+    },
+    {
+      "timestamp": "2026-04-30T10:26:52.268943",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.17
+    },
+    {
+      "timestamp": "2026-04-30T10:27:13.520954",
+      "text": "Алион.",
+      "language": null,
+      "duration_s": 1.26
+    }
+  ]
+}

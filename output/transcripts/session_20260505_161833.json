@@ -1,0 +1,61 @@
+{
+  "session_start": "2026-05-05T11:18:33.599438",
+  "session_end": "2026-05-05T11:24:29.107930",
+  "utterance_count": 9,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T11:19:31.166278",
+      "text": "My name is Adina.",
+      "language": null,
+      "duration_s": 2.73
+    },
+    {
+      "timestamp": "2026-05-05T11:19:43.189359",
+      "text": "My name is Yataya.",
+      "language": null,
+      "duration_s": 2.79
+    },
+    {
+      "timestamp": "2026-05-05T11:19:55.255338",
+      "text": "آئیے ملے بسم اللہ",
+      "language": null,
+      "duration_s": 2.94
+    },
+    {
+      "timestamp": "2026-05-05T11:19:59.945791",
+      "text": "My name is Abdullah.",
+      "language": null,
+      "duration_s": 2.76
+    },
+    {
+      "timestamp": "2026-05-05T11:20:40.250637",
+      "text": "** 2 + X",
+      "language": null,
+      "duration_s": 3.63
+    },
+    {
+      "timestamp": "2026-05-05T11:22:26.735897",
+      "text": "X What is your name?",
+      "language": null,
+      "duration_s": 37.68
+    },
+    {
+      "timestamp": "2026-05-05T11:22:28.689604",
+      "text": "What is your name?",
+      "language": null,
+      "duration_s": 2.82
+    },
+    {
+      "timestamp": "2026-05-05T11:23:38.688552",
+      "text": "ہے",
+      "language": null,
+      "duration_s": 1.5
+    },
+    {
+      "timestamp": "2026-05-05T11:24:15.615879",
+      "text": "Então...",
+      "language": null,
+      "duration_s": 1.56
+    }
+  ]
+}

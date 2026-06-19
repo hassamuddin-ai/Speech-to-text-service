@@ -1,0 +1,91 @@
+{
+  "session_start": "2026-05-05T11:15:44.608943",
+  "session_end": null,
+  "utterance_count": 14,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T11:16:11.422266",
+      "text": "+ X + 13",
+      "language": null,
+      "duration_s": 3.66
+    },
+    {
+      "timestamp": "2026-05-05T11:16:14.159005",
+      "text": "where it is x + 3.",
+      "language": null,
+      "duration_s": 1.92
+    },
+    {
+      "timestamp": "2026-05-05T11:16:17.339317",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.29
+    },
+    {
+      "timestamp": "2026-05-05T11:22:30.542145",
+      "text": "X Nira Nama Allahi",
+      "language": null,
+      "duration_s": 38.82
+    },
+    {
+      "timestamp": "2026-05-05T11:22:31.394212",
+      "text": "بیرے نام عبداللہ ہے",
+      "language": null,
+      "duration_s": 2.91
+    },
+    {
+      "timestamp": "2026-05-05T11:22:31.893857",
+      "text": "My name is Adina.",
+      "language": null,
+      "duration_s": 2.7
+    },
+    {
+      "timestamp": "2026-05-05T11:22:32.596725",
+      "text": "My name is Yataya.",
+      "language": null,
+      "duration_s": 2.76
+    },
+    {
+      "timestamp": "2026-05-05T11:22:37.096084",
+      "text": "مائی ملے حسن اللہ",
+      "language": null,
+      "duration_s": 2.94
+    },
+    {
+      "timestamp": "2026-05-05T11:22:41.024651",
+      "text": "My name is Abdullah.",
+      "language": null,
+      "duration_s": 2.73
+    },
+    {
+      "timestamp": "2026-05-05T11:22:42.862700",
+      "text": "** 2 + X",
+      "language": null,
+      "duration_s": 3.6
+    },
+    {
+      "timestamp": "2026-05-05T11:23:21.485711",
+      "text": "X What is your name?",
+      "language": null,
+      "duration_s": 37.65
+    },
+    {
+      "timestamp": "2026-05-05T11:23:22.357027",
+      "text": "What is your name?",
+      "language": null,
+      "duration_s": 2.85
+    },
+    {
+      "timestamp": "2026-05-05T11:23:38.690690",
+      "text": "ہے",
+      "language": null,
+      "duration_s": 1.47
+    },
+    {
+      "timestamp": "2026-05-05T11:24:15.642339",
+      "text": "Tchau.",
+      "language": null,
+      "duration_s": 1.59
+    }
+  ]
+}

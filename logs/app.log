@@ -1,0 +1,387 @@
+2026-04-30 14:42:48,678 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_144248.*
+2026-04-30 14:42:48,686 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 14:49:54,126 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_144954.*
+2026-04-30 14:49:54,134 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 14:51:59,058 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_145159.*
+2026-04-30 14:51:59,070 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 14:51:59,403 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 14:52:06,285 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 1): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:52:11,154 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 2): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:52:13,469 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 3): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:52:13,476 | ERROR    | src.transcription.pipeline | Transcription error: Whisper failed after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:53:13,414 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 1): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:53:15,479 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 2): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:53:18,250 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 3): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:53:18,254 | ERROR    | src.transcription.pipeline | Transcription error: Whisper failed after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:53:23,824 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 1): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:53:43,183 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 2): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:53:45,517 | ERROR    | src.transcription.whisper_client | Whisper API error (attempt 3): Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:53:45,520 | ERROR    | src.transcription.pipeline | Transcription error: Whisper failed after 3 attempts: Error code: 401 - {'error': {'message': 'Incorrect API key provided: gsk_oSqS********************************************WdFo. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2026-04-30 14:57:18,521 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 14:57:18,593 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 14:57:23,598 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-04-30 15:02:16,779 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_150216.*
+2026-04-30 15:02:16,785 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:12:12,864 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_151212.*
+2026-04-30 15:12:12,872 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:19:30,238 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_151930.*
+2026-04-30 15:19:30,249 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:19:30,583 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 15:21:01,393 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 15:21:01,454 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 15:21:01,461 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-04-30 15:21:04,334 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_152104.*
+2026-04-30 15:21:04,341 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:21:04,378 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 15:21:09,799 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Error code: 404 - {'error': {'message': 'The model `whisper-1` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-04-30 15:21:11,690 | ERROR    | src.transcription.whisper_client | Groq error (attempt 2): Error code: 404 - {'error': {'message': 'The model `whisper-1` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-04-30 15:21:13,325 | ERROR    | src.transcription.whisper_client | Groq error (attempt 3): Error code: 404 - {'error': {'message': 'The model `whisper-1` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-04-30 15:21:13,327 | ERROR    | src.transcription.pipeline | Transcription error: Groq Whisper failed after 3 attempts: Error code: 404 - {'error': {'message': 'The model `whisper-1` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'code': 'model_not_found'}}
+2026-04-30 15:22:55,687 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 15:22:55,740 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 15:22:55,989 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-04-30 15:23:12,953 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_152312.*
+2026-04-30 15:23:12,958 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:24:02,308 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_152402.*
+2026-04-30 15:24:02,316 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:24:58,498 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_152458.*
+2026-04-30 15:24:58,504 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:25:24,724 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_152524.*
+2026-04-30 15:25:24,729 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:25:25,089 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 15:28:17,111 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 15:28:17,166 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 15:28:17,409 | INFO     | src.utils.file_handler | Session closed. 9 utterance(s) saved.
+2026-04-30 15:28:19,650 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_152819.*
+2026-04-30 15:28:19,658 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:28:19,679 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 15:32:39,796 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 15:32:39,854 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 15:32:40,098 | INFO     | src.utils.file_handler | Session closed. 10 utterance(s) saved.
+2026-04-30 15:32:43,783 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_153243.*
+2026-04-30 15:32:43,789 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:32:43,812 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 15:36:39,591 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 15:36:39,636 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 15:36:39,883 | INFO     | src.utils.file_handler | Session closed. 30 utterance(s) saved.
+2026-04-30 15:38:10,483 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_153810.*
+2026-04-30 15:38:10,490 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:39:43,912 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_153943.*
+2026-04-30 15:39:43,919 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:41:02,006 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_154102.*
+2026-04-30 15:41:02,018 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:41:02,439 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 15:44:50,350 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 15:44:50,395 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 15:44:50,645 | INFO     | src.utils.file_handler | Session closed. 2 utterance(s) saved.
+2026-04-30 15:45:52,442 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_154552.*
+2026-04-30 15:45:52,448 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:46:07,533 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_154607.*
+2026-04-30 15:46:07,539 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:46:07,852 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 15:48:15,367 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 15:48:15,408 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 15:48:15,652 | INFO     | src.utils.file_handler | Session closed. 2 utterance(s) saved.
+2026-04-30 15:48:19,540 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_154819.*
+2026-04-30 15:48:19,546 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 15:48:19,570 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 15:48:32,107 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 15:48:32,149 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 15:48:32,388 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-04-30 16:30:57,066 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_163057.*
+2026-04-30 16:30:57,076 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 16:30:57,429 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 16:32:42,014 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 16:32:42,049 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 16:32:42,296 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-04-30 16:32:50,286 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_163250.*
+2026-04-30 16:32:50,292 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 16:32:50,605 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 16:35:11,405 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 16:35:11,462 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 16:35:11,712 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-04-30 16:35:24,503 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_163524.*
+2026-04-30 16:35:24,509 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 16:35:24,868 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 16:37:45,506 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 16:37:45,567 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 16:37:45,787 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-04-30 16:37:55,143 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_163755.*
+2026-04-30 16:37:55,148 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 16:37:55,457 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-04-30 16:43:11,081 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-04-30 16:43:11,142 | INFO     | src.audio.capture | Mic stream closed.
+2026-04-30 16:43:11,389 | INFO     | src.utils.file_handler | Session closed. 8 utterance(s) saved.
+2026-04-30 16:43:17,102 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260430_164317.*
+2026-04-30 16:43:17,107 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-04-30 16:43:17,438 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-01 11:51:22,132 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260501_115122.*
+2026-05-01 11:51:22,139 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-01 11:51:22,903 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-01 11:57:30,466 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Connection error.
+2026-05-01 12:24:18,132 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-01 12:24:18,188 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-01 12:24:18,433 | INFO     | src.utils.file_handler | Session closed. 45 utterance(s) saved.
+2026-05-01 12:24:28,927 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260501_122428.*
+2026-05-01 12:24:28,933 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-01 12:24:29,234 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-01 12:31:13,890 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260501_123113.*
+2026-05-01 12:31:13,899 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-01 12:32:54,880 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260501_123254.*
+2026-05-01 12:32:54,886 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-01 12:32:55,168 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-01 12:34:28,193 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-01 12:34:28,250 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-01 12:34:28,490 | INFO     | src.utils.file_handler | Session closed. 6 utterance(s) saved.
+2026-05-05 12:35:45,276 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_123545.*
+2026-05-05 12:35:45,294 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 12:35:54,370 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:35:54,384 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 12:35:54,412 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-05 12:36:03,289 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_123603.*
+2026-05-05 12:36:03,293 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 12:36:15,424 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:36:22,419 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:36:48,027 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:36:49,712 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:36:49,913 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:36:50,125 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:36:55,663 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:36:55,667 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 12:36:55,677 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-05 12:37:10,969 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_123710.*
+2026-05-05 12:37:10,972 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 12:37:11,363 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 12:37:24,855 | ERROR    | src.transcription.pipeline | Transcription error: st.session_state has no attribute "utterances". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization
+2026-05-05 12:37:27,318 | ERROR    | src.transcription.pipeline | Transcription error: st.session_state has no attribute "utterances". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization
+2026-05-05 12:37:31,703 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:37:31,760 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 12:37:31,773 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-05 12:43:22,635 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_124322.*
+2026-05-05 12:43:22,652 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 12:43:33,505 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:43:33,509 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 12:43:33,518 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-05 12:43:44,833 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_124344.*
+2026-05-05 12:43:44,837 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 12:43:45,279 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 12:46:16,593 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 12:46:16,622 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 12:46:16,872 | INFO     | src.utils.file_handler | Session closed. 10 utterance(s) saved.
+2026-05-05 12:58:32,850 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_125832.*
+2026-05-05 12:58:32,872 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 12:58:34,259 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 12:59:12,554 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Request timed out.
+2026-05-05 12:59:58,024 | ERROR    | src.transcription.whisper_client | Groq error (attempt 2): Connection error.
+2026-05-05 13:00:13,232 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 13:00:13,298 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 13:00:18,301 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-05 13:00:48,570 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_130048.*
+2026-05-05 13:00:48,578 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:02:20,671 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 13:02:20,678 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 13:02:20,700 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-05 13:05:02,599 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_130502.*
+2026-05-05 13:05:02,609 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:05:02,945 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 13:05:54,028 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 13:05:54,069 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 13:05:59,075 | INFO     | src.utils.file_handler | Session closed. 1 utterance(s) saved.
+2026-05-05 13:06:42,747 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_130642.*
+2026-05-05 13:06:42,753 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:12:54,059 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_131254.*
+2026-05-05 13:12:54,069 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:16:51,592 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_131651.*
+2026-05-05 13:16:51,603 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:22:00,859 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_132200.*
+2026-05-05 13:22:00,867 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:23:25,448 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_132325.*
+2026-05-05 13:23:25,458 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:29:43,801 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_132943.*
+2026-05-05 13:29:43,810 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:35:07,687 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_133507.*
+2026-05-05 13:35:07,698 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:35:07,767 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 13:35:08,963 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 13:38:12,918 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_133812.*
+2026-05-05 13:38:12,926 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 13:38:13,049 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 13:38:14,264 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 13:47:43,600 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 15:43:17,258 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_154317.*
+2026-05-05 15:43:17,271 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 15:43:17,676 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 15:43:18,987 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 15:53:10,857 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_155310.*
+2026-05-05 15:53:10,869 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 15:53:10,947 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 15:53:12,186 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 15:54:44,220 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Connection error.
+2026-05-05 16:02:32,492 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_160232.*
+2026-05-05 16:02:32,501 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:02:32,597 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:02:33,848 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:04:16,465 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Connection error.
+2026-05-05 16:04:33,096 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 16:04:33,135 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 16:04:38,140 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-05 16:05:34,331 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_160534.*
+2026-05-05 16:05:34,341 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:05:34,400 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:05:35,716 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:06:16,608 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 16:06:16,644 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 16:06:21,649 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-05 16:06:39,746 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Connection error.
+2026-05-05 16:07:00,481 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_160700.*
+2026-05-05 16:07:00,484 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:07:00,602 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:07:01,908 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:07:20,166 | ERROR    | src.transcription.whisper_client | Groq error (attempt 2): Request timed out.
+2026-05-05 16:08:15,432 | ERROR    | src.transcription.whisper_client | Groq error (attempt 3): Connection error.
+2026-05-05 16:08:15,434 | ERROR    | src.transcription.pipeline | Transcription error: Groq Whisper failed after 3 attempts: Connection error.
+2026-05-05 16:08:28,867 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Connection error.
+2026-05-05 16:15:44,608 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_161544.*
+2026-05-05 16:15:44,618 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:15:44,696 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:15:45,071 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:18:33,599 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_161833.*
+2026-05-05 16:18:33,604 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:18:33,606 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:18:33,793 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:21:37,565 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Connection error.
+2026-05-05 16:24:29,012 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 16:24:29,105 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 16:24:29,109 | INFO     | src.utils.file_handler | Session closed. 9 utterance(s) saved.
+2026-05-05 16:25:22,327 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_162522.*
+2026-05-05 16:25:22,341 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:25:22,447 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:25:22,781 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:26:43,863 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-05 16:26:43,985 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-05 16:26:43,989 | INFO     | src.utils.file_handler | Session closed. 4 utterance(s) saved.
+2026-05-05 16:27:29,992 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_162729.*
+2026-05-05 16:27:29,997 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:27:30,154 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:27:30,506 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:28:57,740 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_162857.*
+2026-05-05 16:28:57,752 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:28:57,819 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:28:58,222 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:30:45,322 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260505_163045.*
+2026-05-05 16:30:45,333 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-05 16:30:45,406 | INFO     | src.audio.capture | Using device index: 0
+2026-05-05 16:30:46,227 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-05 16:32:24,771 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Connection error.
+2026-05-05 16:36:03,142 | ERROR    | src.transcription.whisper_client | Groq error (attempt 1): Connection error.
+2026-05-06 12:29:02,634 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260506_122902.*
+2026-05-06 12:29:02,801 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-06 12:29:04,232 | INFO     | src.audio.capture | Using device index: 0
+2026-05-06 12:29:05,982 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-06 12:34:12,554 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-06 12:34:13,114 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-06 12:34:13,119 | INFO     | src.utils.file_handler | Session closed. 17 utterance(s) saved.
+2026-05-06 12:34:21,966 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260506_123421.*
+2026-05-06 12:34:21,975 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-06 12:34:22,080 | INFO     | src.audio.capture | Using device index: 0
+2026-05-06 12:34:22,293 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-06 12:39:03,343 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-06 12:39:03,389 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-06 12:39:03,396 | INFO     | src.utils.file_handler | Session closed. 11 utterance(s) saved.
+2026-05-06 13:38:26,085 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260506_133826.*
+2026-05-06 13:38:26,318 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-06 13:38:35,378 | INFO     | src.audio.capture | Using device index: 0
+2026-05-06 13:38:36,910 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-06 13:43:04,419 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-06 15:22:46,739 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260506_152246.*
+2026-05-06 15:22:46,779 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-06 15:22:48,407 | INFO     | src.audio.capture | Using device index: 0
+2026-05-06 15:22:48,683 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-06 15:24:02,423 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-06 15:24:52,157 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260506_152452.*
+2026-05-06 15:24:52,175 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-06 15:24:52,325 | INFO     | src.audio.capture | Using device index: 0
+2026-05-06 15:24:55,322 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-06 15:25:51,559 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-06 15:25:51,797 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-06 15:25:56,802 | INFO     | src.utils.file_handler | Session closed. 0 utterance(s) saved.
+2026-05-06 15:26:08,330 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260506_152608.*
+2026-05-06 15:26:08,334 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-06 15:26:08,484 | INFO     | src.audio.capture | Using device index: 0
+2026-05-06 15:26:08,706 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-06 15:44:35,754 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-06 15:44:36,134 | INFO     | src.audio.capture | Mic stream closed.
+2026-05-06 15:44:36,207 | INFO     | src.utils.file_handler | Session closed. 41 utterance(s) saved.
+2026-05-08 16:36:08,077 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260508_163608.*
+2026-05-08 16:36:08,092 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-08 16:36:08,537 | INFO     | src.audio.capture | Using device index: 0
+2026-05-08 16:36:09,885 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-08 16:49:43,070 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260508_164943.*
+2026-05-08 16:49:43,079 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-05-08 16:49:43,174 | INFO     | src.audio.capture | Using device index: 0
+2026-05-08 16:49:44,358 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-05-08 16:56:52,373 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-05-21 13:13:29,496 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260521_131329.*
+2026-05-21 13:14:26,289 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260521_131426.*
+2026-06-03 11:21:01,568 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_112101.*
+2026-06-03 11:21:01,579 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 11:21:01,850 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 11:21:02,251 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 11:21:58,711 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-06-03 11:21:58,736 | WARNING  | src.audio.capture | Audio read error: [Errno -9999] Unanticipated host error
+2026-06-03 11:21:58,778 | INFO     | src.audio.capture | Mic stream closed.
+2026-06-03 11:21:58,781 | INFO     | src.utils.file_handler | Session closed. 5 utterance(s) saved.
+2026-06-03 11:25:43,003 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_112543.*
+2026-06-03 11:25:43,014 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 11:25:43,233 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 11:25:44,458 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 11:25:49,480 | ERROR    | src.transcription.pipeline | Transcription error: st.session_state has no attribute "utterances". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization
+2026-06-03 11:26:08,650 | ERROR    | src.transcription.pipeline | Transcription error: st.session_state has no attribute "utterances". Did you forget to initialize it? More info: https://docs.streamlit.io/develop/concepts/architecture/session-state#initialization
+2026-06-03 11:26:13,147 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-06-03 11:36:02,174 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_113602.*
+2026-06-03 11:36:02,188 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 11:36:02,405 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 11:36:02,697 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 11:42:51,071 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_114251.*
+2026-06-03 11:42:51,079 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 11:42:51,140 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 11:42:52,336 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 11:47:27,330 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-06-03 11:53:33,399 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_115333.*
+2026-06-03 11:53:33,408 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 11:53:33,469 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 11:53:33,757 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 11:56:02,524 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_115602.*
+2026-06-03 11:56:02,528 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 11:56:02,530 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 11:56:02,653 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 12:17:31,766 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_121731.*
+2026-06-03 12:17:31,774 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 12:17:31,834 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 12:17:33,015 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 12:20:37,805 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_122037.*
+2026-06-03 12:20:37,813 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 12:20:37,862 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 12:20:39,070 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 12:34:39,387 | INFO     | src.utils.file_handler | Transcript session started → output/transcripts/session_20260603_123439.*
+2026-06-03 12:34:39,397 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-03 12:34:39,465 | INFO     | src.audio.capture | Using device index: 0
+2026-06-03 12:34:40,706 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-03 12:38:14,318 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-06-16 11:13:53,658 | INFO     | src.utils.file_handler | Transcript session started → output\transcripts\session_20260616_111353.*
+2026-06-16 11:13:53,706 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-16 11:13:54,092 | INFO     | src.audio.capture | Using device index: None
+2026-06-16 11:13:54,251 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-16 11:15:35,016 | INFO     | src.utils.file_handler | Transcript session started → output\transcripts\session_20260616_111535.*
+2026-06-16 11:15:35,031 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-16 11:15:35,371 | INFO     | src.audio.capture | Using device index: None
+2026-06-16 11:15:35,468 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-16 11:17:46,166 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-06-16 11:17:46,191 | INFO     | src.audio.capture | Mic stream closed.
+2026-06-16 12:50:10,531 | INFO     | src.utils.file_handler | Transcript session started → output\transcripts\session_20260616_125010.*
+2026-06-16 12:50:10,539 | INFO     | src.audio.capture | Opening mic stream — 16000Hz, 480 samples/chunk
+2026-06-16 12:50:10,835 | INFO     | src.audio.capture | Using device index: None
+2026-06-16 12:50:10,919 | INFO     | src.transcription.pipeline | [bold green]Pipeline started[/bold green] — speak now. Press Ctrl+C to stop.
+2026-06-16 12:50:47,940 | INFO     | src.transcription.pipeline | Shutting down pipeline…
+2026-06-16 12:50:47,945 | INFO     | src.audio.capture | Mic stream closed.
+2026-06-16 12:50:47,951 | INFO     | src.utils.file_handler | Session closed. 6 utterance(s) saved.

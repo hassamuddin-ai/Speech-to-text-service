@@ -1,0 +1,73 @@
+{
+  "session_start": "2026-05-06T07:34:21.965960",
+  "session_end": "2026-05-06T07:39:03.395121",
+  "utterance_count": 11,
+  "utterances": [
+    {
+      "timestamp": "2026-05-06T07:34:30.217685",
+      "text": "السلام علیکم",
+      "language": null,
+      "duration_s": 2.07
+    },
+    {
+      "timestamp": "2026-05-06T07:34:36.199132",
+      "text": "How are you?",
+      "language": null,
+      "duration_s": 1.98
+    },
+    {
+      "timestamp": "2026-05-06T07:34:43.316764",
+      "text": "x + 2 / y.",
+      "language": null,
+      "duration_s": 3.3
+    },
+    {
+      "timestamp": "2026-05-06T07:34:52.002769",
+      "text": "x ^ 2 + y ^ 2 + xy",
+      "language": null,
+      "duration_s": 5.49
+    },
+    {
+      "timestamp": "2026-05-06T07:34:59.678126",
+      "text": "میرے نام عزیز عبداللہ",
+      "language": null,
+      "duration_s": 2.55
+    },
+    {
+      "timestamp": "2026-05-06T07:35:13.022593",
+      "text": "My name is Abdullah.",
+      "language": null,
+      "duration_s": 3.12
+    },
+    {
+      "timestamp": "2026-05-06T07:35:21.328497",
+      "text": "آپ کا کیا حال ہے؟",
+      "language": null,
+      "duration_s": 2.46
+    },
+    {
+      "timestamp": "2026-05-06T07:35:26.769928",
+      "text": "لازم کی تشریح کریں",
+      "language": null,
+      "duration_s": 2.55
+    },
+    {
+      "timestamp": "2026-05-06T07:35:36.047352",
+      "text": "نظم کی تشریح کریں",
+      "language": null,
+      "duration_s": 3.48
+    },
+    {
+      "timestamp": "2026-05-06T07:35:49.418315",
+      "text": "کہانی کا خلاصہ لکھیں",
+      "language": null,
+      "duration_s": 3.18
+    },
+    {
+      "timestamp": "2026-05-06T07:38:53.422948",
+      "text": "آپ کا نام کیا ہے؟",
+      "language": null,
+      "duration_s": 2.31
+    }
+  ]
+}

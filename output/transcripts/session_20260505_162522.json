@@ -1,0 +1,31 @@
+{
+  "session_start": "2026-05-05T11:25:22.327300",
+  "session_end": "2026-05-05T11:26:43.988285",
+  "utterance_count": 4,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T11:25:47.870128",
+      "text": "السلام علیکم",
+      "language": null,
+      "duration_s": 2.61
+    },
+    {
+      "timestamp": "2026-05-05T11:25:58.979458",
+      "text": "x = x ** 2 + 1.",
+      "language": null,
+      "duration_s": 4.5
+    },
+    {
+      "timestamp": "2026-05-05T11:26:14.820286",
+      "text": "x ** 2 + x + thirteen.",
+      "language": null,
+      "duration_s": 5.1
+    },
+    {
+      "timestamp": "2026-05-05T11:26:30.124344",
+      "text": "x ** 3 + X + 4.",
+      "language": null,
+      "duration_s": 6.21
+    }
+  ]
+}

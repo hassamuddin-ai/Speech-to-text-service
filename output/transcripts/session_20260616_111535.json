@@ -1,0 +1,43 @@
+{
+  "session_start": "2026-06-16T06:15:35.016236",
+  "session_end": null,
+  "utterance_count": 6,
+  "utterances": [
+    {
+      "timestamp": "2026-06-16T06:15:40.783898",
+      "text": "I'm sorry.",
+      "language": "English",
+      "duration_s": 3.57
+    },
+    {
+      "timestamp": "2026-06-16T06:15:54.486369",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.29
+    },
+    {
+      "timestamp": "2026-06-16T06:16:37.679824",
+      "text": "Thank you. Thank you.",
+      "language": "English",
+      "duration_s": 37.2
+    },
+    {
+      "timestamp": "2026-06-16T06:16:38.733079",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 5.46
+    },
+    {
+      "timestamp": "2026-06-16T06:17:10.375594",
+      "text": "so hmm",
+      "language": "English",
+      "duration_s": 22.56
+    },
+    {
+      "timestamp": "2026-06-16T06:17:32.277449",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.15
+    }
+  ]
+}

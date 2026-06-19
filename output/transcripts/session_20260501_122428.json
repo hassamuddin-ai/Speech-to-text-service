@@ -1,0 +1,49 @@
+{
+  "session_start": "2026-05-01T07:24:28.926961",
+  "session_end": null,
+  "utterance_count": 7,
+  "utterances": [
+    {
+      "timestamp": "2026-05-01T07:24:33.324682",
+      "text": "Hello.",
+      "language": null,
+      "duration_s": 1.71
+    },
+    {
+      "timestamp": "2026-05-01T07:24:37.568621",
+      "text": "میرا نام انتہا ہوں",
+      "language": null,
+      "duration_s": 2.34
+    },
+    {
+      "timestamp": "2026-05-01T07:24:51.629304",
+      "text": "آپ کہاں جا رہے ہیں؟",
+      "language": null,
+      "duration_s": 2.7
+    },
+    {
+      "timestamp": "2026-05-01T07:25:03.515984",
+      "text": "آپ سے مل کے اچھا لگا",
+      "language": null,
+      "duration_s": 2.58
+    },
+    {
+      "timestamp": "2026-05-01T07:25:16.197632",
+      "text": "آپ سے کل بات ہوگی",
+      "language": null,
+      "duration_s": 2.64
+    },
+    {
+      "timestamp": "2026-05-01T07:25:43.891001",
+      "text": "che sono addimensato grazie",
+      "language": null,
+      "duration_s": 4.02
+    },
+    {
+      "timestamp": "2026-05-01T07:25:44.450170",
+      "text": "We are in love.",
+      "language": null,
+      "duration_s": 1.35
+    }
+  ]
+}

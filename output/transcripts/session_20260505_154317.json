@@ -1,0 +1,19 @@
+{
+  "session_start": "2026-05-05T10:43:17.258739",
+  "session_end": null,
+  "utterance_count": 2,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T10:43:29.471192",
+      "text": "r plus x plus t.",
+      "language": null,
+      "duration_s": 3.69
+    },
+    {
+      "timestamp": "2026-05-05T10:43:51.908911",
+      "text": "x square plus x plus 13.",
+      "language": null,
+      "duration_s": 6.06
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "session_start": "2026-05-05T10:53:10.857812",
+  "session_end": null,
+  "utterance_count": 6,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T10:53:42.788963",
+      "text": "plus x plus 3 times.",
+      "language": null,
+      "duration_s": 3.87
+    },
+    {
+      "timestamp": "2026-05-05T10:55:34.392641",
+      "text": "where the x be Löene",
+      "language": null,
+      "duration_s": 4.11
+    },
+    {
+      "timestamp": "2026-05-05T10:55:36.412812",
+      "text": "x square plus x plus 13",
+      "language": null,
+      "duration_s": 5.55
+    },
+    {
+      "timestamp": "2026-05-05T10:55:51.974987",
+      "text": "logic gates Thank you.",
+      "language": null,
+      "duration_s": 30.27
+    },
+    {
+      "timestamp": "2026-05-05T10:55:53.234924",
+      "text": "Project gates.",
+      "language": null,
+      "duration_s": 2.04
+    },
+    {
+      "timestamp": "2026-05-05T10:56:07.825871",
+      "text": "میرا نام عبداللہ ہے",
+      "language": null,
+      "duration_s": 2.73
+    }
+  ]
+}

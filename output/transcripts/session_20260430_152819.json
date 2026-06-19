@@ -1,0 +1,67 @@
+{
+  "session_start": "2026-04-30T10:28:19.650474",
+  "session_end": "2026-04-30T10:32:40.098152",
+  "utterance_count": 10,
+  "utterances": [
+    {
+      "timestamp": "2026-04-30T10:28:34.826269",
+      "text": "はい、はい、はい、はい",
+      "language": null,
+      "duration_s": 10.44
+    },
+    {
+      "timestamp": "2026-04-30T10:30:11.315931",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.92
+    },
+    {
+      "timestamp": "2026-04-30T10:31:58.869646",
+      "text": "Não vou... Não vou... Não vou...",
+      "language": null,
+      "duration_s": 4.02
+    },
+    {
+      "timestamp": "2026-04-30T10:32:04.080447",
+      "text": "uh...",
+      "language": null,
+      "duration_s": 1.17
+    },
+    {
+      "timestamp": "2026-04-30T10:32:09.482946",
+      "text": "کبھی لینگویچ چینج کر لے گیا ہے کبھی میں انگلیش ورگ لوں تو وہ چائنیس میں لکھتے تھے",
+      "language": null,
+      "duration_s": 5.28
+    },
+    {
+      "timestamp": "2026-04-30T10:32:19.563202",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 0.93
+    },
+    {
+      "timestamp": "2026-04-30T10:32:25.174814",
+      "text": "I do it.",
+      "language": null,
+      "duration_s": 1.23
+    },
+    {
+      "timestamp": "2026-04-30T10:32:32.107630",
+      "text": "اگر بھی ایک ہی رجات نہیں بہتر",
+      "language": null,
+      "duration_s": 2.46
+    },
+    {
+      "timestamp": "2026-04-30T10:32:32.664282",
+      "text": "I need to go.",
+      "language": null,
+      "duration_s": 1.23
+    },
+    {
+      "timestamp": "2026-04-30T10:32:38.580964",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.08
+    }
+  ]
+}

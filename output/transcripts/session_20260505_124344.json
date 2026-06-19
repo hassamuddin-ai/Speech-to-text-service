@@ -1,0 +1,67 @@
+{
+  "session_start": "2026-05-05T07:43:44.833696",
+  "session_end": "2026-05-05T07:46:16.870550",
+  "utterance_count": 10,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T07:43:57.011431",
+      "text": "My name is Abdullah.",
+      "language": null,
+      "duration_s": 5.1
+    },
+    {
+      "timestamp": "2026-05-05T07:44:12.115478",
+      "text": "میرا نام عبداللہ ہے",
+      "language": null,
+      "duration_s": 5.85
+    },
+    {
+      "timestamp": "2026-05-05T07:44:21.012103",
+      "text": "آپ کیا کر رہے ہیں؟",
+      "language": null,
+      "duration_s": 2.46
+    },
+    {
+      "timestamp": "2026-05-05T07:44:35.902609",
+      "text": "اس نظم کی تشریح کریں",
+      "language": null,
+      "duration_s": 2.97
+    },
+    {
+      "timestamp": "2026-05-05T07:44:50.353027",
+      "text": "Give me the summary of deafness.",
+      "language": null,
+      "duration_s": 2.85
+    },
+    {
+      "timestamp": "2026-05-05T07:45:05.845625",
+      "text": "Give me the summary of the holdings.",
+      "language": null,
+      "duration_s": 3.93
+    },
+    {
+      "timestamp": "2026-05-05T07:45:18.519779",
+      "text": "Give me the summary of Daffodil's poem.",
+      "language": null,
+      "duration_s": 3.63
+    },
+    {
+      "timestamp": "2026-05-05T07:45:29.134028",
+      "text": "Give me the summary of the if-point.",
+      "language": null,
+      "duration_s": 3.9
+    },
+    {
+      "timestamp": "2026-05-05T07:45:50.387011",
+      "text": "اس سوال کا جواب دیں",
+      "language": null,
+      "duration_s": 2.97
+    },
+    {
+      "timestamp": "2026-05-05T07:46:06.435400",
+      "text": "ہم کے جپٹر کے سوال دیں",
+      "language": null,
+      "duration_s": 3.54
+    }
+  ]
+}

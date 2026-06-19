@@ -1,0 +1,277 @@
+{
+  "session_start": "2026-05-01T06:51:22.132037",
+  "session_end": "2026-05-01T07:24:18.431494",
+  "utterance_count": 45,
+  "utterances": [
+    {
+      "timestamp": "2026-05-01T06:51:28.651261",
+      "text": "Allô ?",
+      "language": null,
+      "duration_s": 1.86
+    },
+    {
+      "timestamp": "2026-05-01T06:51:29.666546",
+      "text": "How are you?",
+      "language": null,
+      "duration_s": 2.37
+    },
+    {
+      "timestamp": "2026-05-01T06:51:36.054643",
+      "text": "میرا نام عبداللہ ہے",
+      "language": null,
+      "duration_s": 3.3
+    },
+    {
+      "timestamp": "2026-05-01T06:51:44.985021",
+      "text": "عبداللہ",
+      "language": null,
+      "duration_s": 1.86
+    },
+    {
+      "timestamp": "2026-05-01T06:51:50.757377",
+      "text": "Amen.",
+      "language": null,
+      "duration_s": 1.74
+    },
+    {
+      "timestamp": "2026-05-01T06:51:56.214922",
+      "text": "مجھے عبداللہ ہے",
+      "language": null,
+      "duration_s": 2.4
+    },
+    {
+      "timestamp": "2026-05-01T06:52:06.003619",
+      "text": "My name is Abdullah.",
+      "language": null,
+      "duration_s": 2.88
+    },
+    {
+      "timestamp": "2026-05-01T06:52:14.906849",
+      "text": "Write the summary of defundings.",
+      "language": null,
+      "duration_s": 3.03
+    },
+    {
+      "timestamp": "2026-05-01T06:52:24.756518",
+      "text": "Write the summary of daffodils.",
+      "language": null,
+      "duration_s": 2.85
+    },
+    {
+      "timestamp": "2026-05-01T06:52:33.284360",
+      "text": "What is an adjective?",
+      "language": null,
+      "duration_s": 2.31
+    },
+    {
+      "timestamp": "2026-05-01T06:52:44.123934",
+      "text": "What is partial fraction?",
+      "language": null,
+      "duration_s": 2.82
+    },
+    {
+      "timestamp": "2026-05-01T06:53:00.115082",
+      "text": "explain partial fractions",
+      "language": null,
+      "duration_s": 3.06
+    },
+    {
+      "timestamp": "2026-05-01T06:53:09.347130",
+      "text": "La Jor.",
+      "language": null,
+      "duration_s": 1.77
+    },
+    {
+      "timestamp": "2026-05-01T06:53:17.440277",
+      "text": "لاہور پاکستان کی بیٹی ہے",
+      "language": null,
+      "duration_s": 3.03
+    },
+    {
+      "timestamp": "2026-05-01T06:53:25.966976",
+      "text": "اس لہور ان پاکستان",
+      "language": null,
+      "duration_s": 2.91
+    },
+    {
+      "timestamp": "2026-05-01T06:53:41.524423",
+      "text": "Helo, helo.",
+      "language": null,
+      "duration_s": 2.1
+    },
+    {
+      "timestamp": "2026-05-01T06:53:46.705310",
+      "text": "Ben iki yıllardır geldim. Ben ikinci yıllardır geldim.",
+      "language": null,
+      "duration_s": 3.09
+    },
+    {
+      "timestamp": "2026-05-01T06:53:58.366415",
+      "text": "Hello.",
+      "language": null,
+      "duration_s": 1.59
+    },
+    {
+      "timestamp": "2026-05-01T06:54:14.085132",
+      "text": "السلام علیکم",
+      "language": null,
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-05-01T06:54:24.471735",
+      "text": "کافی دنوں سے آپ سے بات دیں",
+      "language": null,
+      "duration_s": 2.73
+    },
+    {
+      "timestamp": "2026-05-01T06:55:25.386994",
+      "text": "write an essay on honesty.",
+      "language": null,
+      "duration_s": 3.66
+    },
+    {
+      "timestamp": "2026-05-01T06:55:37.217828",
+      "text": "in me tomorrow.",
+      "language": null,
+      "duration_s": 1.92
+    },
+    {
+      "timestamp": "2026-05-01T06:55:44.481102",
+      "text": "We will meet tomorrow.",
+      "language": null,
+      "duration_s": 3.21
+    },
+    {
+      "timestamp": "2026-05-01T06:56:45.603166",
+      "text": "I believe.",
+      "language": null,
+      "duration_s": 1.47
+    },
+    {
+      "timestamp": "2026-05-01T06:57:49.094877",
+      "text": "A beer made a train.",
+      "language": null,
+      "duration_s": 3.48
+    },
+    {
+      "timestamp": "2026-05-01T06:57:50.101045",
+      "text": "A bead made a train.",
+      "language": null,
+      "duration_s": 2.76
+    },
+    {
+      "timestamp": "2026-05-01T06:57:50.900977",
+      "text": "A bead made a train.",
+      "language": null,
+      "duration_s": 6.6
+    },
+    {
+      "timestamp": "2026-05-01T06:57:51.406855",
+      "text": "Okay.",
+      "language": null,
+      "duration_s": 1.95
+    },
+    {
+      "timestamp": "2026-05-01T06:57:51.842883",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.53
+    },
+    {
+      "timestamp": "2026-05-01T06:57:52.290895",
+      "text": "لگا میں کرتے ہیں",
+      "language": null,
+      "duration_s": 2.4
+    },
+    {
+      "timestamp": "2026-05-01T06:57:52.849917",
+      "text": "A beer made a train.",
+      "language": null,
+      "duration_s": 2.85
+    },
+    {
+      "timestamp": "2026-05-01T06:57:53.442429",
+      "text": "She made a train.",
+      "language": null,
+      "duration_s": 3.99
+    },
+    {
+      "timestamp": "2026-05-01T06:57:58.517291",
+      "text": "or net Neon.",
+      "language": null,
+      "duration_s": 1.98
+    },
+    {
+      "timestamp": "2026-05-01T06:57:59.335735",
+      "text": "A bead made a train.",
+      "language": null,
+      "duration_s": 2.91
+    },
+    {
+      "timestamp": "2026-05-01T06:58:11.813166",
+      "text": "عبیر میرے ٹرین",
+      "language": null,
+      "duration_s": 3.12
+    },
+    {
+      "timestamp": "2026-05-01T06:58:32.194355",
+      "text": "My name is Abir.",
+      "language": null,
+      "duration_s": 2.55
+    },
+    {
+      "timestamp": "2026-05-01T06:58:45.062066",
+      "text": "I will meet you tomorrow.",
+      "language": null,
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-05-01T06:59:18.152170",
+      "text": "Hello, hello, 1, 2, 3, hello.",
+      "language": null,
+      "duration_s": 3.72
+    },
+    {
+      "timestamp": "2026-05-01T07:02:24.255635",
+      "text": "Hello, hello, where are you?",
+      "language": null,
+      "duration_s": 2.58
+    },
+    {
+      "timestamp": "2026-05-01T07:07:52.188466",
+      "text": "Thank you. Thank you. Thank you.",
+      "language": null,
+      "duration_s": 66.54
+    },
+    {
+      "timestamp": "2026-05-01T07:12:44.005026",
+      "text": "Thank you.",
+      "language": null,
+      "duration_s": 1.35
+    },
+    {
+      "timestamp": "2026-05-01T07:17:25.331392",
+      "text": "on.",
+      "language": null,
+      "duration_s": 1.35
+    },
+    {
+      "timestamp": "2026-05-01T07:17:30.258952",
+      "text": "ఇంట్రేలో",
+      "language": null,
+      "duration_s": 1.71
+    },
+    {
+      "timestamp": "2026-05-01T07:17:34.054935",
+      "text": "Ya. Ya.",
+      "language": null,
+      "duration_s": 1.44
+    },
+    {
+      "timestamp": "2026-05-01T07:17:38.154385",
+      "text": "Aha, ticke.",
+      "language": null,
+      "duration_s": 2.01
+    }
+  ]
+}

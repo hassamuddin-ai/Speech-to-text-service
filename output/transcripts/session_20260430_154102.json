@@ -1,0 +1,19 @@
+{
+  "session_start": "2026-04-30T10:41:02.006580",
+  "session_end": "2026-04-30T10:44:50.644849",
+  "utterance_count": 2,
+  "utterances": [
+    {
+      "timestamp": "2026-04-30T10:41:07.644273",
+      "text": "I don't know.",
+      "language": null,
+      "duration_s": 4.17
+    },
+    {
+      "timestamp": "2026-04-30T10:42:55.607537",
+      "text": "people",
+      "language": null,
+      "duration_s": 1.53
+    }
+  ]
+}

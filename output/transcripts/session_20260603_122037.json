@@ -1,0 +1,49 @@
+{
+  "session_start": "2026-06-03T07:20:37.805175",
+  "session_end": null,
+  "utterance_count": 7,
+  "utterances": [
+    {
+      "timestamp": "2026-06-03T07:20:47.253396",
+      "text": "application + krwaiin",
+      "language": "Urdu",
+      "duration_s": 2.4
+    },
+    {
+      "timestamp": "2026-06-03T07:25:59.718799",
+      "text": "Thank you. Thank you. Thank you. Thank you Thank you. Thank you. multiplication",
+      "language": "English",
+      "duration_s": 201.21
+    },
+    {
+      "timestamp": "2026-06-03T07:26:00.063729",
+      "text": "کیا ہوتی ہے",
+      "language": "Urdu",
+      "duration_s": 1.59
+    },
+    {
+      "timestamp": "2026-06-03T07:26:07.306080",
+      "text": "ملٹیپلیکیشن کیا ہوتی ہے؟",
+      "language": "Urdu",
+      "duration_s": 3.54
+    },
+    {
+      "timestamp": "2026-06-03T07:28:41.919066",
+      "text": "ویژن کیا ہوتی ہے؟",
+      "language": "Urdu",
+      "duration_s": 2.37
+    },
+    {
+      "timestamp": "2026-06-03T07:28:47.314068",
+      "text": "کیا ہوتی ہے",
+      "language": "Urdu",
+      "duration_s": 2.67
+    },
+    {
+      "timestamp": "2026-06-03T07:28:56.513773",
+      "text": "فیکٹرائزیشن کیا ہوتی ہے؟",
+      "language": "Urdu",
+      "duration_s": 3.9
+    }
+  ]
+}

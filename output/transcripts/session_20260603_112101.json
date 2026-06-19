@@ -1,0 +1,37 @@
+{
+  "session_start": "2026-06-03T06:21:01.568965",
+  "session_end": "2026-06-03T06:21:58.780393",
+  "utterance_count": 5,
+  "utterances": [
+    {
+      "timestamp": "2026-06-03T06:21:09.650719",
+      "text": "السلام علیکم",
+      "language": "Urdu",
+      "duration_s": 2.52
+    },
+    {
+      "timestamp": "2026-06-03T06:21:19.185903",
+      "text": "آپ کا کیا حال ہے؟",
+      "language": "Urdu",
+      "duration_s": 2.34
+    },
+    {
+      "timestamp": "2026-06-03T06:21:26.879965",
+      "text": "میں کل گاؤں گیا تھا",
+      "language": "Urdu",
+      "duration_s": 2.46
+    },
+    {
+      "timestamp": "2026-06-03T06:21:34.155811",
+      "text": "اب یہ پورا چپٹر ریڈ کریں",
+      "language": "Urdu",
+      "duration_s": 2.79
+    },
+    {
+      "timestamp": "2026-06-03T06:21:49.935915",
+      "text": "اپ اپلیکیشن جمع کر واقع کرائیں",
+      "language": "Urdu",
+      "duration_s": 2.97
+    }
+  ]
+}

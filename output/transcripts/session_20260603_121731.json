@@ -1,0 +1,31 @@
+{
+  "session_start": "2026-06-03T07:17:31.766255",
+  "session_end": null,
+  "utterance_count": 4,
+  "utterances": [
+    {
+      "timestamp": "2026-06-03T07:17:41.829973",
+      "text": "ki application + krwaiin",
+      "language": "Urdu",
+      "duration_s": 2.37
+    },
+    {
+      "timestamp": "2026-06-03T07:18:09.958524",
+      "text": "ملٹیپلکیشن کیا ہوتا ہے؟",
+      "language": "Urdu",
+      "duration_s": 2.7
+    },
+    {
+      "timestamp": "2026-06-03T07:19:02.691108",
+      "text": "صاحب آپ کو پاک کیا کام ہے",
+      "language": "Urdu",
+      "duration_s": 3.84
+    },
+    {
+      "timestamp": "2026-06-03T07:19:04.583718",
+      "text": "Hmm.",
+      "language": "English",
+      "duration_s": 1.32
+    }
+  ]
+}

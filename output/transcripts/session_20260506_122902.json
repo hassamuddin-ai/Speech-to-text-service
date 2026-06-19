@@ -1,0 +1,109 @@
+{
+  "session_start": "2026-05-06T07:29:02.634546",
+  "session_end": "2026-05-06T07:34:13.117714",
+  "utterance_count": 17,
+  "utterances": [
+    {
+      "timestamp": "2026-05-06T07:29:17.460672",
+      "text": "السلام علیکم",
+      "language": null,
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-05-06T07:29:23.772088",
+      "text": "I'll add you.",
+      "language": null,
+      "duration_s": 1.8
+    },
+    {
+      "timestamp": "2026-05-06T07:29:31.869103",
+      "text": "How are you?",
+      "language": null,
+      "duration_s": 2.31
+    },
+    {
+      "timestamp": "2026-05-06T07:29:42.032941",
+      "text": "x ^ 3 + x ^ 2 + x + 15.",
+      "language": null,
+      "duration_s": 6.33
+    },
+    {
+      "timestamp": "2026-05-06T07:29:59.396734",
+      "text": "میرے نام عبداللہ ہے",
+      "language": null,
+      "duration_s": 2.25
+    },
+    {
+      "timestamp": "2026-05-06T07:30:19.029265",
+      "text": "Amém.",
+      "language": null,
+      "duration_s": 1.56
+    },
+    {
+      "timestamp": "2026-05-06T07:31:00.220569",
+      "text": "میرا نام عبداللہ ہے۔",
+      "language": null,
+      "duration_s": 2.58
+    },
+    {
+      "timestamp": "2026-05-06T07:31:07.950487",
+      "text": "x ^ 3 + x ^ 2 + x + 15.",
+      "language": null,
+      "duration_s": 5.16
+    },
+    {
+      "timestamp": "2026-05-06T07:31:16.176317",
+      "text": "اس نظم کی تشریح کریں",
+      "language": null,
+      "duration_s": 2.88
+    },
+    {
+      "timestamp": "2026-05-06T07:31:27.934188",
+      "text": "اس سوال کا جواب دیں",
+      "language": null,
+      "duration_s": 2.97
+    },
+    {
+      "timestamp": "2026-05-06T07:31:39.804727",
+      "text": "give me the summary of",
+      "language": null,
+      "duration_s": 2.61
+    },
+    {
+      "timestamp": "2026-05-06T07:31:41.332393",
+      "text": "F-Point.",
+      "language": null,
+      "duration_s": 1.98
+    },
+    {
+      "timestamp": "2026-05-06T07:31:49.112409",
+      "text": "Give me the summary of if point.",
+      "language": null,
+      "duration_s": 3.27
+    },
+    {
+      "timestamp": "2026-05-06T07:31:59.813663",
+      "text": "x / y.",
+      "language": null,
+      "duration_s": 3.57
+    },
+    {
+      "timestamp": "2026-05-06T07:32:07.008485",
+      "text": "x * y.",
+      "language": null,
+      "duration_s": 3.06
+    },
+    {
+      "timestamp": "2026-05-06T07:33:33.382050",
+      "text": "Obrigado.",
+      "language": null,
+      "duration_s": 1.32
+    },
+    {
+      "timestamp": "2026-05-06T07:33:37.042871",
+      "text": "No.",
+      "language": null,
+      "duration_s": 1.5
+    }
+  ]
+}

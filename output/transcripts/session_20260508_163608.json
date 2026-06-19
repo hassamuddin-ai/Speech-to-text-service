@@ -1,0 +1,73 @@
+{
+  "session_start": "2026-05-08T11:36:08.077360",
+  "session_end": null,
+  "utterance_count": 11,
+  "utterances": [
+    {
+      "timestamp": "2026-05-08T11:36:19.333994",
+      "text": "Amen.",
+      "language": null,
+      "duration_s": 1.98
+    },
+    {
+      "timestamp": "2026-05-08T11:36:36.035815",
+      "text": "ngayon.",
+      "language": null,
+      "duration_s": 1.98
+    },
+    {
+      "timestamp": "2026-05-08T11:36:48.839605",
+      "text": "^ 2 + x.",
+      "language": null,
+      "duration_s": 1.65
+    },
+    {
+      "timestamp": "2026-05-08T11:37:03.777426",
+      "text": "&&",
+      "language": null,
+      "duration_s": 2.79
+    },
+    {
+      "timestamp": "2026-05-08T11:37:15.717905",
+      "text": "میرا نام عبداللہ ہے",
+      "language": null,
+      "duration_s": 2.82
+    },
+    {
+      "timestamp": "2026-05-08T11:37:35.465631",
+      "text": "dan cikgu",
+      "language": null,
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-05-08T11:37:44.307434",
+      "text": "मैं internship कर रहा हूँ",
+      "language": null,
+      "duration_s": 3.69
+    },
+    {
+      "timestamp": "2026-05-08T11:38:13.248634",
+      "text": "اے اے",
+      "language": null,
+      "duration_s": 3.3
+    },
+    {
+      "timestamp": "2026-05-08T11:38:38.826895",
+      "text": "the internship car.",
+      "language": null,
+      "duration_s": 3.54
+    },
+    {
+      "timestamp": "2026-05-08T11:38:50.404427",
+      "text": "Mm-hmm.",
+      "language": null,
+      "duration_s": 1.29
+    },
+    {
+      "timestamp": "2026-05-08T11:39:24.223320",
+      "text": "मैं internship कर रहा हूँ",
+      "language": null,
+      "duration_s": 3.66
+    }
+  ]
+}

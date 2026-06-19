@@ -1,0 +1,49 @@
+{
+  "session_start": "2026-05-05T08:35:07.687629",
+  "session_end": null,
+  "utterance_count": 7,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T08:35:15.257249",
+      "text": "امید اللہ ہے",
+      "language": null,
+      "duration_s": 2.34
+    },
+    {
+      "timestamp": "2026-05-05T08:35:27.148755",
+      "text": "How are you?",
+      "language": null,
+      "duration_s": 1.89
+    },
+    {
+      "timestamp": "2026-05-05T08:35:35.988545",
+      "text": "محضم کی تشریح کریں",
+      "language": null,
+      "duration_s": 2.46
+    },
+    {
+      "timestamp": "2026-05-05T08:35:47.503449",
+      "text": "اس نظم کی تشریف رہے",
+      "language": null,
+      "duration_s": 3.45
+    },
+    {
+      "timestamp": "2026-05-05T08:36:16.682287",
+      "text": "ایک ہزار",
+      "language": null,
+      "duration_s": 1.95
+    },
+    {
+      "timestamp": "2026-05-05T08:36:40.514166",
+      "text": "square plus x plus 10.",
+      "language": null,
+      "duration_s": 2.94
+    },
+    {
+      "timestamp": "2026-05-05T08:36:57.139093",
+      "text": "plus x plus 10.",
+      "language": null,
+      "duration_s": 3.93
+    }
+  ]
+}

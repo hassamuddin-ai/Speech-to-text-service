@@ -1,0 +1,145 @@
+{
+  "session_start": "2026-06-03T06:36:02.174140",
+  "session_end": null,
+  "utterance_count": 23,
+  "utterances": [
+    {
+      "timestamp": "2026-06-03T06:36:05.313899",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.41
+    },
+    {
+      "timestamp": "2026-06-03T06:36:10.646887",
+      "text": "alslam likm",
+      "language": "Urdu",
+      "duration_s": 2.49
+    },
+    {
+      "timestamp": "2026-06-03T06:36:18.953634",
+      "text": "mera nam bdallh hai",
+      "language": "Urdu",
+      "duration_s": 2.61
+    },
+    {
+      "timestamp": "2026-06-03T06:36:28.332990",
+      "text": "mera nam bdallh hai",
+      "language": "Urdu",
+      "duration_s": 2.88
+    },
+    {
+      "timestamp": "2026-06-03T06:36:40.253915",
+      "text": "aap aplikishn jm krwaiin",
+      "language": "Urdu",
+      "duration_s": 3.3
+    },
+    {
+      "timestamp": "2026-06-03T06:36:48.012133",
+      "text": "application",
+      "language": "English",
+      "duration_s": 1.95
+    },
+    {
+      "timestamp": "2026-06-03T06:36:54.854613",
+      "text": "aap aplikishn jm krwaiin",
+      "language": "Urdu",
+      "duration_s": 3.45
+    },
+    {
+      "timestamp": "2026-06-03T06:37:31.684356",
+      "text": "Bye.",
+      "language": "English",
+      "duration_s": 1.59
+    },
+    {
+      "timestamp": "2026-06-03T06:38:43.407199",
+      "text": "bdallh",
+      "language": "Urdu",
+      "duration_s": 1.65
+    },
+    {
+      "timestamp": "2026-06-03T06:38:49.155300",
+      "text": "bdallh",
+      "language": "Urdu",
+      "duration_s": 2.58
+    },
+    {
+      "timestamp": "2026-06-03T06:39:27.010249",
+      "text": "allh hafz",
+      "language": "Urdu",
+      "duration_s": 1.95
+    },
+    {
+      "timestamp": "2026-06-03T06:39:28.556804",
+      "text": "Bye.",
+      "language": "English",
+      "duration_s": 0.99
+    },
+    {
+      "timestamp": "2026-06-03T06:39:37.118888",
+      "text": "allh hafz",
+      "language": "Urdu",
+      "duration_s": 2.91
+    },
+    {
+      "timestamp": "2026-06-03T06:39:52.966033",
+      "text": "speech to text model.",
+      "language": "English",
+      "duration_s": 2.55
+    },
+    {
+      "timestamp": "2026-06-03T06:39:59.925490",
+      "text": "How are you doing today?",
+      "language": "English",
+      "duration_s": 2.7
+    },
+    {
+      "timestamp": "2026-06-03T06:40:11.394633",
+      "text": "Give the summary of Deccardules.",
+      "language": "English",
+      "duration_s": 2.85
+    },
+    {
+      "timestamp": "2026-06-03T06:40:20.478109",
+      "text": "gives the summary of DefoDills.",
+      "language": "English",
+      "duration_s": 3.81
+    },
+    {
+      "timestamp": "2026-06-03T06:40:34.417035",
+      "text": "give the summary of the",
+      "language": "English",
+      "duration_s": 2.28
+    },
+    {
+      "timestamp": "2026-06-03T06:40:45.712593",
+      "text": "Give the summary of the F-poem.",
+      "language": "English",
+      "duration_s": 2.94
+    },
+    {
+      "timestamp": "2026-06-03T06:41:01.149586",
+      "text": "If you are having trouble, I can help you.",
+      "language": "English",
+      "duration_s": 3.57
+    },
+    {
+      "timestamp": "2026-06-03T06:41:08.504538",
+      "text": "If you are having trouble, I can help you.",
+      "language": "English",
+      "duration_s": 3.81
+    },
+    {
+      "timestamp": "2026-06-03T06:41:42.520840",
+      "text": "nazm ki summary dein",
+      "language": "Urdu",
+      "duration_s": 3.24
+    },
+    {
+      "timestamp": "2026-06-03T06:41:46.065832",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.11
+    }
+  ]
+}

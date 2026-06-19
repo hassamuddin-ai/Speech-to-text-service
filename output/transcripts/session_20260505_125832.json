@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-05-05T07:58:32.850943",
+  "session_end": null,
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-05-05T08:00:21.395116",
+      "text": "Mm-hmm.",
+      "language": null,
+      "duration_s": 1.77
+    }
+  ]
+}

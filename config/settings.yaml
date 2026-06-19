@@ -1,0 +1,38 @@
+audio:
+  sample_rate: 16000        # Hz — Whisper expects 16kHz
+  channels: 1               # Mono
+  chunk_ms: 30              # VAD frame size (10 / 20 / 30 ms only)
+  dtype: float32
+
+vad:
+  aggressiveness: 3         # 0 (lenient) → 3 (aggressive)
+  silence_threshold: 35     # Consecutive silent frames before flushing
+  min_speech_frames: 8      # Ignore very short blips
+
+whisper:
+  model: whisper-large-v3
+  language: null            # null = auto-detect | "en" | "ur" | "ar" etc.
+  response_format: verbose_json     # text | json | verbose_json
+  temperature: 0.0
+  prompt: "The speaker speaks Urdu and English. This is a Grade 9 English textbook assistant. Chapters include: Patriotism, The Saviour of Mankind, The Daffodils, The Last Ride, Television. Keep English proper nouns in English script. Keep all English words like name, glossary, patriotism, grammar, part, unit, chapter, comprehension, exercise, story, letter, dialogue in English Latin script. Do not transliterate English words into Urdu."
+
+# ── Language filter ────────────────────────────────────────────────────
+# Only utterances in these languages will be printed and saved.
+# All other languages are silently dropped.
+language_filter:
+  enabled: true
+
+output:
+  format: both              # json | txt | both
+  transcripts_dir: output/transcripts
+  filename_prefix: session
+  realtime_print: true      # Print each utterance live in terminal
+
+logging:
+  level: INFO               # DEBUG | INFO | WARNING | ERROR
+  log_dir: logs
+  max_bytes: 5242880        # 5 MB per log file
+  backup_count: 3
+
+normalizer:
+  mode: always
