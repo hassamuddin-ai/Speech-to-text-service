@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎙️ Realtime STT — Production Grade
 
 Real-time multilingual Speech-to-Text pipeline using the Groq Whisper API with VAD-based chunking, a Streamlit web UI, Roman Urdu transliteration, and automatic math/code symbol normalization.
@@ -151,3 +152,6 @@ The Streamlit app (`app.py`) provides:
 - Groq API key (set `GROQ_API_KEY` in `.env`)
 - Working microphone
 - `portaudio` system library (`brew install portaudio` / `apt install portaudio19-dev`)
+=======
+# Speech-to-text-service
+>>>>>>> 62c449d7cbe056fcb046aca295ed41cd3f8f4bef
