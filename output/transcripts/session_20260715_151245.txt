@@ -1,0 +1,1 @@
+[2026-07-15T10:12:55.912896] a plus b whole square equal to a square plus b square plus 2ab

@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T19:28:36.969451",
+  "session_end": "2026-07-15T19:28:43.216545",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T19:28:43.194640",
+      "text": "کیا میں ایک اچھا وئے ہوں",
+      "language": "Urdu",
+      "duration_s": 4.29
+    }
+  ]
+}

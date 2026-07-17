@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T09:58:22.670840",
+  "session_end": "2026-07-15T09:58:26.520885",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T09:58:26.509862",
+      "text": "کیا حال ہے",
+      "language": "Urdu",
+      "duration_s": 2.88
+    }
+  ]
+}

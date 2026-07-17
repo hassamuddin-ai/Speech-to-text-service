@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T19:27:51.010996",
+  "session_end": "2026-07-15T19:27:58.064005",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T19:27:57.872941",
+      "text": "مجھے آپ کا بیٹری آرٹیزم بہت اچھا لگتا ہے",
+      "language": "Urdu",
+      "duration_s": 3.75
+    }
+  ]
+}

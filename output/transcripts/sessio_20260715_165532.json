@@ -1,0 +1,49 @@
+{
+  "session_start": "2026-07-15T11:55:32.100635",
+  "session_end": "2026-07-15T11:56:21.218520",
+  "utterance_count": 7,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T11:55:45.917825",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 11.28
+    },
+    {
+      "timestamp": "2026-07-15T11:55:49.355692",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.38
+    },
+    {
+      "timestamp": "2026-07-15T11:55:52.603670",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.55
+    },
+    {
+      "timestamp": "2026-07-15T11:55:59.005269",
+      "text": "I'm going to take a picture of you. I'm going to take a picture.",
+      "language": "English",
+      "duration_s": 5.22
+    },
+    {
+      "timestamp": "2026-07-15T11:56:01.250978",
+      "text": "x = 2 + 4",
+      "language": "English",
+      "duration_s": 2.67
+    },
+    {
+      "timestamp": "2026-07-15T11:56:07.688611",
+      "text": "I don't know.",
+      "language": "English",
+      "duration_s": 4.62
+    },
+    {
+      "timestamp": "2026-07-15T11:56:11.790210",
+      "text": "I will come beside the Lamb && trust in me, brother.",
+      "language": "English",
+      "duration_s": 4.23
+    }
+  ]
+}

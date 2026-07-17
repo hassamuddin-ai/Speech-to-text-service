@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T18:56:55.392663",
+  "session_end": "2026-07-15T18:57:01.488843",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T18:57:01.456011",
+      "text": "کیا آپ اپنی لائک سے خوش ہیں",
+      "language": "Urdu",
+      "duration_s": 5.01
+    }
+  ]
+}

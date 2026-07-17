@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T18:57:39.765424",
+  "session_end": "2026-07-15T18:57:44.403676",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T18:57:44.360815",
+      "text": "I wanna go home.",
+      "language": "English",
+      "duration_s": 3.54
+    }
+  ]
+}

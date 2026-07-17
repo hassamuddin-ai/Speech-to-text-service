@@ -1,0 +1,277 @@
+{
+  "session_start": "2026-07-16T07:48:46.994043",
+  "session_end": null,
+  "utterance_count": 45,
+  "utterances": [
+    {
+      "timestamp": "2026-07-16T07:49:16.010089",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 12.78
+    },
+    {
+      "timestamp": "2026-07-16T07:49:17.608316",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 5.7
+    },
+    {
+      "timestamp": "2026-07-16T07:49:42.526027",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 10.8
+    },
+    {
+      "timestamp": "2026-07-16T07:49:43.086225",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.24
+    },
+    {
+      "timestamp": "2026-07-16T07:49:43.795509",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.29
+    },
+    {
+      "timestamp": "2026-07-16T07:49:45.435841",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.68
+    },
+    {
+      "timestamp": "2026-07-16T07:52:40.065102",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.55
+    },
+    {
+      "timestamp": "2026-07-16T07:52:40.556618",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.37
+    },
+    {
+      "timestamp": "2026-07-16T07:52:41.279939",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 5.04
+    },
+    {
+      "timestamp": "2026-07-16T07:52:41.915754",
+      "text": "Amen.",
+      "language": "English",
+      "duration_s": 4.83
+    },
+    {
+      "timestamp": "2026-07-16T07:52:42.332929",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.92
+    },
+    {
+      "timestamp": "2026-07-16T07:52:42.699301",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.89
+    },
+    {
+      "timestamp": "2026-07-16T07:52:44.290282",
+      "text": "میں نے روٹو دیکھا وہ بس گئی ہے",
+      "language": "Urdu",
+      "duration_s": 4.86
+    },
+    {
+      "timestamp": "2026-07-16T07:52:47.632098",
+      "text": "میں بیکھتا ہوں سائیو آلیویٹر شاہ شاہیم کرنشاہ ان سے اپنے پیوے",
+      "language": "Urdu",
+      "duration_s": 34.47
+    },
+    {
+      "timestamp": "2026-07-16T07:52:49.056338",
+      "text": "I think it's important to be a part of the community.",
+      "language": "English",
+      "duration_s": 4.08
+    },
+    {
+      "timestamp": "2026-07-16T07:52:51.216532",
+      "text": "We'll be trying to work with her.",
+      "language": "English",
+      "duration_s": 1.59
+    },
+    {
+      "timestamp": "2026-07-16T07:52:51.720887",
+      "text": "It's a strange man.",
+      "language": "English",
+      "duration_s": 2.13
+    },
+    {
+      "timestamp": "2026-07-16T07:52:52.238574",
+      "text": "behind us who was trying to find",
+      "language": "English",
+      "duration_s": 1.38
+    },
+    {
+      "timestamp": "2026-07-16T07:52:53.284107",
+      "text": "I'm going to ask you to park the side of the bike.",
+      "language": "English",
+      "duration_s": 3.57
+    },
+    {
+      "timestamp": "2026-07-16T07:52:53.771794",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.13
+    },
+    {
+      "timestamp": "2026-07-16T07:52:56.428557",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 8.7
+    },
+    {
+      "timestamp": "2026-07-16T07:52:56.814394",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.59
+    },
+    {
+      "timestamp": "2026-07-16T07:53:18.961318",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 25.89
+    },
+    {
+      "timestamp": "2026-07-16T07:53:19.576234",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.28
+    },
+    {
+      "timestamp": "2026-07-16T07:53:20.285706",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.45
+    },
+    {
+      "timestamp": "2026-07-16T07:53:21.603802",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 7.92
+    },
+    {
+      "timestamp": "2026-07-16T07:53:22.478447",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.32
+    },
+    {
+      "timestamp": "2026-07-16T07:53:23.270223",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.45
+    },
+    {
+      "timestamp": "2026-07-16T07:53:23.981296",
+      "text": "I don't know what you're doing.",
+      "language": "English",
+      "duration_s": 2.94
+    },
+    {
+      "timestamp": "2026-07-16T07:53:27.051035",
+      "text": "میں نے سنا کہ ان کے پاس جونئرز ملے گئے ہیں۔ میں نے دیکھا کہ ان کے پاس جونئرز نہیں ہیں۔ ان کی کیوں کہ وہ ہی نہیں ہے کہ ریڈیشن ہوئی نہیں ہوئی۔",
+      "language": "Urdu",
+      "duration_s": 11.61
+    },
+    {
+      "timestamp": "2026-07-16T07:53:56.795389",
+      "text": "Mm-hmm.",
+      "language": "English",
+      "duration_s": 2.43
+    },
+    {
+      "timestamp": "2026-07-16T07:53:59.553243",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 9.18
+    },
+    {
+      "timestamp": "2026-07-16T07:54:00.058597",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.35
+    },
+    {
+      "timestamp": "2026-07-16T07:56:36.584112",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.26
+    },
+    {
+      "timestamp": "2026-07-16T07:56:37.203836",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 10.95
+    },
+    {
+      "timestamp": "2026-07-16T07:56:37.710973",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.41
+    },
+    {
+      "timestamp": "2026-07-16T07:56:39.864381",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.21
+    },
+    {
+      "timestamp": "2026-07-16T07:56:40.888836",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 12.81
+    },
+    {
+      "timestamp": "2026-07-16T07:56:41.237458",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.03
+    },
+    {
+      "timestamp": "2026-07-16T07:56:41.617107",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.06
+    },
+    {
+      "timestamp": "2026-07-16T07:56:42.116893",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.8
+    },
+    {
+      "timestamp": "2026-07-16T07:56:43.054881",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.62
+    },
+    {
+      "timestamp": "2026-07-16T07:56:43.366078",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.82
+    },
+    {
+      "timestamp": "2026-07-16T07:56:50.104610",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.88
+    },
+    {
+      "timestamp": "2026-07-16T07:56:54.815698",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.62
+    }
+  ]
+}

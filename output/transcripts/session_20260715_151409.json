@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T10:14:09.232592",
+  "session_end": "2026-07-15T10:14:20.253587",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T10:14:20.241653",
+      "text": "a plus b whole square equal to a square plus b square plus 2ab.",
+      "language": "English",
+      "duration_s": 9.66
+    }
+  ]
+}

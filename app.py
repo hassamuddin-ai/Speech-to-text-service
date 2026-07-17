@@ -414,6 +414,13 @@ if start_clicked:
                 text, language = pipeline._whisper.transcribe(wav_buf)
                 if not text:
                     return
+
+                # ── Normalize math/code notation ────────────────────────
+                # (this call was missing — it's why math normalization
+                # worked in the CLI/main.py but silently did nothing here)
+                text = pipeline._normalizer.normalize(text.strip())
+                # ─────────────────────────────────────────────────────────
+
                 from src.utils.roman_urdu import to_roman_urdu
                 from src.transcription.language_filter import is_urdu, is_allowed
 
@@ -421,7 +428,7 @@ if start_clicked:
                 if not is_allowed(language):
                     return
 
-                display_text = to_roman_urdu(text.strip()) if is_urdu(language) else text.strip()
+                display_text = to_roman_urdu(text) if is_urdu(language) else text
 
                 utterance = {
                     "timestamp": datetime.utcnow().isoformat(),

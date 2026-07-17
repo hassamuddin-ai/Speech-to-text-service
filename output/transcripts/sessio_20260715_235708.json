@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T18:57:08.400703",
+  "session_end": "2026-07-15T18:57:13.755823",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T18:57:13.732744",
+      "text": "mujhe glossary chahiye",
+      "language": "Urdu",
+      "duration_s": 4.47
+    }
+  ]
+}

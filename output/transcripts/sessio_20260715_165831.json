@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T11:58:31.967221",
+  "session_end": "2026-07-15T11:58:41.206486",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T11:58:41.197694",
+      "text": "Exit positive plus one.",
+      "language": "English",
+      "duration_s": 6.69
+    }
+  ]
+}

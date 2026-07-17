@@ -1,0 +1,25 @@
+{
+  "session_start": "2026-07-15T18:57:58.995058",
+  "session_end": "2026-07-15T18:58:16.985189",
+  "utterance_count": 3,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T18:58:05.248577",
+      "text": "مجھے انگلینڈ جانا ہے",
+      "language": "Urdu",
+      "duration_s": 4.95
+    },
+    {
+      "timestamp": "2026-07-15T18:58:16.305468",
+      "text": "مجھے یو ایس اے جانا ہے",
+      "language": "Urdu",
+      "duration_s": 10.77
+    },
+    {
+      "timestamp": "2026-07-15T18:58:16.954954",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.11
+    }
+  ]
+}

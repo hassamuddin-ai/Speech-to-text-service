@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T10:02:42.648952",
+  "session_end": "2026-07-15T10:02:50.292485",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T10:02:49.857305",
+      "text": "جو تمہارے لئے لکھا ہے نو ون کن ٹیک ایٹ آویل",
+      "language": "Urdu",
+      "duration_s": 5.88
+    }
+  ]
+}

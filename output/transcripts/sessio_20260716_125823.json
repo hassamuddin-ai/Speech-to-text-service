@@ -1,0 +1,163 @@
+{
+  "session_start": "2026-07-16T07:58:23.302383",
+  "session_end": null,
+  "utterance_count": 26,
+  "utterances": [
+    {
+      "timestamp": "2026-07-16T07:58:49.541891",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 13.2
+    },
+    {
+      "timestamp": "2026-07-16T07:58:50.224036",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.45
+    },
+    {
+      "timestamp": "2026-07-16T07:58:51.147029",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 6.48
+    },
+    {
+      "timestamp": "2026-07-16T07:58:53.322447",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.69
+    },
+    {
+      "timestamp": "2026-07-16T07:58:57.181255",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.46
+    },
+    {
+      "timestamp": "2026-07-16T07:59:02.412367",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 5.07
+    },
+    {
+      "timestamp": "2026-07-16T07:59:04.967263",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.37
+    },
+    {
+      "timestamp": "2026-07-16T07:59:08.246876",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.91
+    },
+    {
+      "timestamp": "2026-07-16T07:59:32.899294",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 8.94
+    },
+    {
+      "timestamp": "2026-07-16T07:59:33.603915",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.45
+    },
+    {
+      "timestamp": "2026-07-16T07:59:34.199709",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.73
+    },
+    {
+      "timestamp": "2026-07-16T07:59:40.699961",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 8.4
+    },
+    {
+      "timestamp": "2026-07-16T07:59:48.410789",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.96
+    },
+    {
+      "timestamp": "2026-07-16T07:59:51.722666",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.1
+    },
+    {
+      "timestamp": "2026-07-16T08:00:14.182348",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.42
+    },
+    {
+      "timestamp": "2026-07-16T08:00:14.697857",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 1.83
+    },
+    {
+      "timestamp": "2026-07-16T08:00:15.210726",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 4.23
+    },
+    {
+      "timestamp": "2026-07-16T08:00:33.842904",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 8.61
+    },
+    {
+      "timestamp": "2026-07-16T08:00:35.281049",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 9.24
+    },
+    {
+      "timestamp": "2026-07-16T08:00:37.447515",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.55
+    },
+    {
+      "timestamp": "2026-07-16T08:00:54.742290",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 6.03
+    },
+    {
+      "timestamp": "2026-07-16T08:00:55.356793",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.21
+    },
+    {
+      "timestamp": "2026-07-16T08:00:56.688150",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 6.03
+    },
+    {
+      "timestamp": "2026-07-16T08:01:00.782730",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.52
+    },
+    {
+      "timestamp": "2026-07-16T08:01:21.382377",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 7.74
+    },
+    {
+      "timestamp": "2026-07-16T08:01:22.310501",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.55
+    }
+  ]
+}

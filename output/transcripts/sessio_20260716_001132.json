@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T19:11:32.769351",
+  "session_end": "2026-07-15T19:11:42.150018",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T19:11:42.126256",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 5.88
+    }
+  ]
+}

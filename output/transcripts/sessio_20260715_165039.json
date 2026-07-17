@@ -1,0 +1,49 @@
+{
+  "session_start": "2026-07-15T11:50:39.824250",
+  "session_end": "2026-07-15T11:51:34.203639",
+  "utterance_count": 7,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T11:51:08.697468",
+      "text": "مجھے ایک لوگ سری جائے دیو مجھے",
+      "language": "Urdu",
+      "duration_s": 25.68
+    },
+    {
+      "timestamp": "2026-07-15T11:51:19.849904",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 11.22
+    },
+    {
+      "timestamp": "2026-07-15T11:51:21.281704",
+      "text": "Amen.",
+      "language": "English",
+      "duration_s": 1.68
+    },
+    {
+      "timestamp": "2026-07-15T11:51:24.569595",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.12
+    },
+    {
+      "timestamp": "2026-07-15T11:51:27.431924",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.37
+    },
+    {
+      "timestamp": "2026-07-15T11:51:30.286370",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 2.94
+    },
+    {
+      "timestamp": "2026-07-15T11:51:34.195597",
+      "text": "Thank you.",
+      "language": "English",
+      "duration_s": 3.36
+    }
+  ]
+}

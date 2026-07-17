@@ -1,0 +1,13 @@
+{
+  "session_start": "2026-07-15T11:16:22.339540",
+  "session_end": "2026-07-15T11:16:29.039949",
+  "utterance_count": 1,
+  "utterances": [
+    {
+      "timestamp": "2026-07-15T11:16:29.029934",
+      "text": "جو تو مہرے لیے ہے تو آپ کو اسے بھی بھیگ سکتے ہیں",
+      "language": "Urdu",
+      "duration_s": 5.58
+    }
+  ]
+}

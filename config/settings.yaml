@@ -24,12 +24,12 @@ language_filter:
 
 output:
   format: both              # json | txt | both
-  transcripts_dir: output/transcripts
-  filename_prefix: session
+  transcripts_dir: output/transcripts 
+  filename_prefix: sessio
   realtime_print: true      # Print each utterance live in terminal
 
 logging:
-  level: INFO               # DEBUG | INFO | WARNING | ERROR
+  level: DEBUG              # DEBUG | INFO | WARNING | ERROR
   log_dir: logs
   max_bytes: 5242880        # 5 MB per log file
   backup_count: 3
